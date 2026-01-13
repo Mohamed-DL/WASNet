@@ -1,2 +1,2 @@
 # WASNet
-WASNet: Wavelet-Attentive SEBAM Network for Robust SAR Image Change Detection
+Speckle-Robust SAR Image Change Detection for Real-World Monitoring Using Learnable Wavelet Transforms and Attention (WASNet)
